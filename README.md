@@ -26,6 +26,9 @@ The dataset is publicly available on Kaggle and can be accessed here:
 **File:** `Phishing_Email.csv` (52 MB)  
 **Format:** CSV with columns "Email Text" and "Email Type"
 
+
+> ⚠️ **Note:** The dataset is too large to include directly in this repository (52 MB). You'll need to download it separately and place it in the `data/` folder as `phishing.csv` before running the training scripts.
+
 ---
 ## 🧠 How Does It Actually Work?
 
