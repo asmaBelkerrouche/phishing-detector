@@ -16,7 +16,17 @@ I got tired of almost falling for these, so I built an AI that does the detectiv
 No more second-guessing those sketchy emails!
 
 ---
+## Dataset Source
 
+The dataset used in this project is the **"Phishing Email Detection" dataset from Kaggle**. From Enron Corporation employees, with approximately 60% legitimate emails and 40% phishing emails.
+
+The dataset is publicly available on Kaggle and can be accessed here:  
+[https://www.kaggle.com/code/kirollosashraf/phishing-email-detection-using-deep-learning/input](https://www.kaggle.com/code/kirollosashraf/phishing-email-detection-using-deep-learning/input)
+
+**File:** `Phishing_Email.csv` (52 MB)  
+**Format:** CSV with columns "Email Text" and "Email Type"
+
+---
 ## 🧠 How Does It Actually Work?
 
 Think of it like training a cybersecurity intern. I showed it **18,650 real emails** – half legit, half phishing – and taught it to spot the patterns that give phishing away.
